@@ -1,0 +1,105 @@
+{
+  "legislative_session": "2025s",
+  "identifier": "SB 1",
+  "title": "authorize the Department of Corrections to purchase and exchange certain real property, to make an appropriation therefor, and to declare an emergency.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to S.J. 12",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "Select Committee on Prison Legislation Deferred Indefinitely , Passed, YEAS 11, NAYS 4 J.J. 2",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jensen (Kevin)",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Jensen (Kevin)\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aylward",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Aylward\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jordan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jordan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26442/286375",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/286375.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/26442",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/26442",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:57:43Z"
+  }
+}

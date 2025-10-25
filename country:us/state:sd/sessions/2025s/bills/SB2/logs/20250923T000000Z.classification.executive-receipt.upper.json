@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Delivered to the Governor on 2025-09-23 S.J. 14",
+    "date": "2025-09-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2"
+}

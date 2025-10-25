@@ -1,0 +1,189 @@
+{
+  "legislative_session": "2025s",
+  "identifier": "SB 2",
+  "title": "authorize the Department of Corrections to purchase and exchange certain real property, to contract for the design of a prison facility, to construct a prison facility in Minnehaha County for offenders committed to the Department of Corrections, to make an appropriation therefor, to transfer moneys to the incarceration construction fund, and to declare an emergency.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "First read in Senate and referred to S.J. 12",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction",
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "Select Committee on Prison Legislation Do Pass , Passed, YEAS 13, NAYS 2 J.J. 2",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "Senate Do Pass , Passed, YEAS 24, NAYS 11 S.J. 13",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "First Reading House H.J. 11",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "House of Representatives Do Pass , Passed, YEAS 51, NAYS 18 H.J. 11",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "Signed by the President S.J. 14",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker H.J. 12",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "Delivered to the Governor on 2025-09-23 S.J. 14",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor on 2025-09-23",
+      "date": "2025-09-23",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T02:57:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Joint Select Committee on Prison Legislation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"chamber\": \"upper\", \"name\": \"Joint Select Committee on Prison Legislation\"}"
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26417/286402",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/286402.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-23",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://sdlegislature.gov/Session/Bill/26417/286454",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://mylrc.sdlegislature.gov/api/Documents/286454.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-23",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/Session/Bill/26417",
+      "note": ""
+    },
+    {
+      "url": "https://sdlegislature.gov/api/Bills/26417",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:sd/government",
+    "name": "South Dakota",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:sd"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T02:57:43Z"
+  }
+}

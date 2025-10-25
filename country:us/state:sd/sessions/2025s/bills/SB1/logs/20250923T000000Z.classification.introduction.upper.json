@@ -1,0 +1,14 @@
+{
+  "action": {
+    "description": "First read in Senate and referred to S.J. 12",
+    "date": "2025-09-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1"
+}

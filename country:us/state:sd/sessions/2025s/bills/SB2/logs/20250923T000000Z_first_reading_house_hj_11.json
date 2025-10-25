@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "First Reading House H.J. 11",
+    "date": "2025-09-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 2"
+}

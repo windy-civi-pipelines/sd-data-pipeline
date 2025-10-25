@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Select Committee on Prison Legislation Do Pass , Passed, YEAS 13, NAYS 2 J.J. 2",
+    "date": "2025-09-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 2"
+}

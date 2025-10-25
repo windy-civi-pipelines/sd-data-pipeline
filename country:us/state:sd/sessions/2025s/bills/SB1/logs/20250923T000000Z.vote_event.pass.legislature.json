@@ -1,0 +1,130 @@
+{
+  "identifier": "",
+  "motion_text": "Deferred Indefinitely",
+  "motion_classification": [],
+  "start_date": "2025-09-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"legislature\"}",
+  "legislative_session": "2025s",
+  "bill": "43d0b9c2-b14e-11f0-a965-6acde871095f",
+  "bill_action": null,
+  "bill_identifier": "SB 1",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Hohn",
+      "voter_id": "~{\"name\": \"Hohn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Steve)",
+      "voter_id": "~{\"name\": \"Kolbeck (Steve)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lapka",
+      "voter_id": "~{\"name\": \"Lapka\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mehlhaff",
+      "voter_id": "~{\"name\": \"Mehlhaff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Otten",
+      "voter_id": "~{\"name\": \"Otten\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith",
+      "voter_id": "~{\"name\": \"Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Healy",
+      "voter_id": "~{\"name\": \"Healy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamison",
+      "voter_id": "~{\"name\": \"Jamison\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kolbeck (Jack)",
+      "voter_id": "~{\"name\": \"Kolbeck (Jack)\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lems",
+      "voter_id": "~{\"name\": \"Lems\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mulder",
+      "voter_id": "~{\"name\": \"Mulder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Odenbach",
+      "voter_id": "~{\"name\": \"Odenbach\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reisch",
+      "voter_id": "~{\"name\": \"Reisch\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hansen",
+      "voter_id": "~{\"name\": \"Hansen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karr",
+      "voter_id": "~{\"name\": \"Karr\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sdlegislature.gov/api/Votes/82590",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://sdlegislature.gov/api/Votes/82590"
+}
